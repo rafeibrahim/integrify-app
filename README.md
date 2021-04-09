@@ -1,3 +1,17 @@
+
+# React App deployed on netlify
+(https://ecstatic-jennings-a12393.netlify.app/)
+
+React Concepts Used:
+💊 Functional React component.
+💊 useState
+💊 useEffect
+💊 reactRouter
+💊 useParams
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
